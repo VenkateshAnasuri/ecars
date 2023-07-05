@@ -10,7 +10,7 @@
 1. Edit the code in your fork.
 1. Sign CLA (see [CLA](#cla) below)
 1. Send us a pull request when you are done. We'll review your code, suggest any
-   needed changes, and merge it in.
+   needed changes, and merge it in .
 
 ### CLA
 
